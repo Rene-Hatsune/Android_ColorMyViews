@@ -1,2 +1,3 @@
 # ColorMyViews
-## constraint exercise
+## Andoid layout constraint exercise
+## Android in class exercise
